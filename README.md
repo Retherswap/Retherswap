@@ -4,4 +4,4 @@
 Retherswap [$RETHER]  
 </h1>
 
-RetherSwap is a upcoming swap/dex for the Rethereum blockchain.
+Retherswap is a upcoming swap/dex for the Rethereum blockchain.
