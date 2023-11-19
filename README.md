@@ -6,13 +6,13 @@
 Retherswap is a swap/dex for the Rethereum blockchain. The Retherswap Protocol is an open-source protocol for providing liquidity and trading ERC20 tokens on Rethereum. It eliminates trusted intermediaries and unnecessary forms of rent extraction, allowing for safe, accessible, and efficient exchange activity. The protocol is non-upgradable and designed to be censorship resistant.
 
 The Retherswap Protocol and the Retherswap Interface were initially based around Uniswap V2 by Uniswap Labs. We've improved the product and made it our own.
-- Easy Use
+- Easy Use: 
 Retherswap got a easy to use interface for swapping your favorite tokens.
-- No Limits
+- No Limits:
 With the Rethereum blockchain, there is no limit how far Retherswap can go.
-- Decentralized
+- Decentralized:
 Retherswap enables community ownership and active stewardship of the protocol.
-- High Quality
+- High Quality:
 The protocol is made of the highest quality of design.
 
 
