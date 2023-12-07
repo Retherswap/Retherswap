@@ -3,13 +3,13 @@
 </h1>
 
 # Retherswap Labs
-Retherswap is a swap/dex for the Rethereum blockchain. The Retherswap Protocol is an open-source protocol for providing liquidity and trading ERC20 tokens on Rethereum. It eliminates trusted intermediaries and unnecessary forms of rent extraction, allowing for safe, accessible, and efficient exchange activity. The protocol is non-upgradable and designed to be censorship resistant.
+Retherswap is a swap/dex for the Hypra blockchain. The Retherswap Protocol is an open-source protocol for providing liquidity and trading ERC20 tokens on Hypra. It eliminates trusted intermediaries and unnecessary forms of rent extraction, allowing for safe, accessible, and efficient exchange activity. The protocol is non-upgradable and designed to be censorship resistant.
 
 The Retherswap Protocol and the Retherswap Interface were initially based around Uniswap V2 by Uniswap Labs. We've improved the product and made it our own.
 - Easy Use: 
 Retherswap got a easy to use interface for swapping your favorite tokens.
 - No Limits:
-With the Rethereum blockchain, there is no limit how far Retherswap can go.
+With the Hypra blockchain, there is no limit how far Retherswap can go.
 - Decentralized:
 Retherswap enables community ownership and active stewardship of the protocol.
 - High Quality:
@@ -17,7 +17,7 @@ The protocol is made of the highest quality of design.
 
 
 ## How do I use Retherswap?
-To create a new liquidity pool, provide liquidity, swap tokens, or vote on governance proposals, head over to the Retherswap Interface and connect a Web3 wallet. Remember, each transaction on Rethereum costs Rether (RTH). For a more detailed walkthrough, check out our Help Guides.
+To create a new liquidity pool, provide liquidity, swap tokens, or vote on governance proposals, head over to the Retherswap Interface and connect a Web3 wallet. Remember, each transaction on Hypra costs Rether (RTH). For a more detailed walkthrough, check out our Help Guides.
 
 If you’re a developer interested in building on top of the Retherswap Protocol, please refer to our extensive docs.
 
@@ -32,9 +32,9 @@ Because reserves are automatically rebalanced after each trade, a Retherswap poo
 
 # Governance
 ## What is Governance?
-The Rethereum Protocol is a public good owned and governed by RETHERS token holders.
+The Retherswap Protocol is a public good owned and governed by RETHERS token holders.
 
-Retherswap governance refers to the decentralized decision-making process within the Retherswap ecosystem, a prominent decentralized exchange (DEX) built on the Rethereum blockchain. Retherswap allows users to swap various cryptocurrencies without relying on traditional intermediaries like centralized exchanges. Governance in the context of Retherswap involves key decisions about the protocol's development, parameters, and its future direction, all of which are determined by the community of Rethers token holders.
+Retherswap governance refers to the decentralized decision-making process within the Retherswap ecosystem, a prominent decentralized exchange (DEX) built on the Hypra blockchain. Retherswap allows users to swap various cryptocurrencies without relying on traditional intermediaries like centralized exchanges. Governance in the context of Retherswap involves key decisions about the protocol's development, parameters, and its future direction, all of which are determined by the community of Rethers token holders.
 
 
 ## The Retherswap Token
